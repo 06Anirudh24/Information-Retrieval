@@ -1,9 +1,6 @@
-# IR-ASSIGNMENT-1 
-## _README_
+# Boolean IR System - Implementation ReadMe
 
-
-
-The following contains the function names in our code,their description and some test cases to evaluate them.
+This file contains the function names in our code, their description, and some test cases to evaluate them.
 
 # Functions
 ###  DATA PREPROCESSING
