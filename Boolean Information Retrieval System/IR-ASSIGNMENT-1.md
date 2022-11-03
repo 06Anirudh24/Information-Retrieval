@@ -1,6 +1,6 @@
 # Boolean IR System - Implementation ReadMe
 
-This file contains the function names in our code, their description, and some test cases to evaluate them.
+This file describes the functions in the code along with some test cases to evaluate them.
 
 # Functions
 ###  DATA PREPROCESSING
