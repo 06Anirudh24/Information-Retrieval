@@ -9,7 +9,7 @@ The following features/pre-processing steps have been implemented: -
 1. Stopword removal
 2. Case folding
 3. Stemming 
-4. Wildcard query handling using K-Gram indices
+4. Wildcard query handling using Permuterm method
 5. Spelling correction using Edit Distance
 
 ## Page Ranking and HITS Algorithm: -
